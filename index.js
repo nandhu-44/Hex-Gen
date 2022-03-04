@@ -1,0 +1,1 @@
+module.exports.randomColor = require('./randomColor.js')

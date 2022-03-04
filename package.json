@@ -1,0 +1,24 @@
+{
+  "name": "random-color-gen",
+  "version": "1.0.0",
+  "description": "Generates and returns random color hex code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nandhu-44/RandomColor(Js)"
+  },
+  "keywords": [
+    "randomcolor",
+    "color",
+    "colorgenerator",
+    "random"
+  ],
+  "author": "n44",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
