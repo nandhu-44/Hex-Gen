@@ -1,1 +1,1 @@
-module.exports.randomColor = require('./randomColor.js')
+module.exports.randomColor = require('./hexgen.js')
