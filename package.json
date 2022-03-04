@@ -1,6 +1,6 @@
 {
   "name": "hex-gen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates and returns random color hex code.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "hexcolor",
-    "hex-color-gen",
+    "hex-gen",
     "randomcolor",
     "color",
     "colorgenerator",
