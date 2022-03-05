@@ -1,6 +1,6 @@
 {
   "name": "hex-gen",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generates and returns random color hex code.",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/nandhu-44/Hex-Gen"
+    "url": "git+https://github.com/nandhu-44/Hex-Gen.git"
   },
+  "bugs": {
+    "url": "https://github.com/nandhu-44/Hex-Gen/issues"
+  },
+  "homepage": "https://github.com/nandhu-44/Hex-Gen#readme",
   "keywords": [
     "hexcolor",
     "hex-gen",
